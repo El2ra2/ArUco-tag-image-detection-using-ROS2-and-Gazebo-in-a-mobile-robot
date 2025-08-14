@@ -1,4 +1,4 @@
-# ArUco-tag-image-detection-sing-ROS2-and-Gazebo-in-a-mobile-robot
+# ArUco tag image detection using ROS2 and Gazebo in a mobile robot
 Simulated a camera-equipped mobile robot in Gazebo and detected ArUco markers in the environment using a ROS2.
 
 ## Pre-requisites:
