@@ -1,5 +1,5 @@
 # ArUco tag image detection using ROS2 and Gazebo in a mobile robot
-Simulated a camera-equipped mobile robot in Gazebo and detected ArUco markers in the environment using a ROS2.
+Simulated a camera-equipped mobile robot in Gazebo and detected ArUco markers in the environment using ROS2.
 
 ## Pre-requisites:
 This project is done in ROS2 Jazzy and Gazebo Harmonic, changes might need to be made for previous versions. Additionally, xterm needs to be installed (using: sudo apt install xterm) to control the robot using keyboard inputs. Make sure colcon is installed (command: sudo apt install python3-colcon-common-extensions)
