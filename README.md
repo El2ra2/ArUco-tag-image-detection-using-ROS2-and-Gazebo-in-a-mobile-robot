@@ -7,7 +7,7 @@ This project is done in ROS2 Jazzy and Gazebo Harmonic, changes might need to be
 ## How to run:
 - After downloading the files, run (command: colcon build) inside the directory 'open_robot'. 
 
-- Then source the directory using (command: source ~/open_robot/install/setup.bash), or paste the command in your bash file '.bashrc' and run (source ~/.bashrc). 
+- Then source the directory using (command: source ~/open_robot/install/setup.bash), or paste the command in your bash file '.bashrc' and run (command: source ~/.bashrc). 
 
 - Use the launch file (command: ros2 launch looking_robot display.launch.py) to bring up the simulation, rviz, and the detection node. 
 
